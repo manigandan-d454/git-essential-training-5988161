@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../git-init-example"
+		}
+	],
+	"settings": {
+		"explorer.openEditors.visible": 0,
+		"terminal.integrated.fontSize": 22,
+		"workbench.colorTheme": "Visual Studio Dark",
+		"workbench.statusBar.visible": true
+	}
+}
